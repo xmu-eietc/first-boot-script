@@ -6,3 +6,5 @@ apt install -y libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i3
 
 # setting Android Studio up
 ## add icon and add to Favarite
+
+# TODO: Unable to run mksdcard SDK tool
